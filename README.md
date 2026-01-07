@@ -4,9 +4,8 @@
 ## USS Fraud Investigation
 **SGD 24K** recovered from Universal Studios Singapore ticket fraud across **150+ bookings**
 
-- **Looker + SQL** investigation identified GT vendor vulnerability
+- **Looker + Excel** investigation identified GT vendor vulnerability
 - **Vendor switch** GT → BMG + process redesign saved 23,878 SGD  
 - **93 future bookings** secured proactively
 - Go to Case study: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/uss-fraud-investigation)
 
-**7+ projects live in branches**
