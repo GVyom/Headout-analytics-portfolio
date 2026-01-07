@@ -7,5 +7,6 @@
 - **Looker + SQL** investigation identified GT vendor vulnerability
 - **Vendor switch** GT → BMG + process redesign saved 23,878 SGD  
 - **93 future bookings** secured proactively
+- Go to Case study: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/uss-fraud-investigation)
 
 **7+ projects live in branches**
