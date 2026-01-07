@@ -33,7 +33,7 @@
 **Business Impact**: Recovered **SGD 24K** value from fraud crisis.
 
 ## Problem Statement
-- GT "Manage Ticket" links enabled unauthorized rescheduling
+- Vendor "Manage Ticket" links enabled unauthorized rescheduling
 - Fraudsters moved future bookings (30/12→28/12) + redeemed tickets
 - 74% hit rate (26/35 bookings affected on 31/12 alone)
 - Cross-functional investigation (RO, CO, Fraud, Legal teams)
