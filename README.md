@@ -25,4 +25,3 @@ Raw Data (Sheet1) → VLOOKUP Automation → Executive Dashboard → Google Driv
 ```excel
 =ARRAYFORMULA(IF(E2:E="", "", VLOOKUP(E2:E, Sheet1!$B$3:$Q$961, 3, FALSE)))
 
-
