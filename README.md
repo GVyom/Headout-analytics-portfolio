@@ -15,6 +15,6 @@
 - **72% efficiency** gain (4hr → 1hr7min daily) 
 - Auto audit trail + scalable to **6+ agents**
 - **2.88 hours/day** saved × 250 workdays = **720 agent-hours annually**
-- Go to Case study: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/VLOOKUP-Dashboard-%7C-72%25-efficiency-improvement)
+- Go to tool developed: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/VLOOKUP-Dashboard-%7C-72%25-efficiency-improvement)
 
 
