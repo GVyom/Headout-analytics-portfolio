@@ -10,7 +10,7 @@
 | Audit Trail | Manual | **Auto-logged** | ✅ |
 | **Team Scale** | **6 agents** | **Scalable** | ✅ |
 
-**Business Impact**: **2.88 hours/day saved × 250 workdays = 720 agent days annually** (~**AUD 10K** labor cost)
+**Business Impact**: **2.88 hours/day saved × 250 workdays = 720 agent hours annually** (~**AUD 10K** labor cost)
 
 ## Problem → Solution → Result
 PROBLEM: Manual data formatting → 4hr daily waste on re-formatting as per stakeholders need
