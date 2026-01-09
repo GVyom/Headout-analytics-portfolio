@@ -12,9 +12,9 @@
 ## VLOOKUP Dashboard Automation
  **AUD 10k** annual labor savings (720 agent days) across 6-agent team
  
-- **72% efficiency** gain (4hr → 1hr7min daily)
-- **ARRAYFORMULA + Apps Script** audit trail scaled to 961 records
-- **18.7 → 720 agent days saved** via production-grade VLOOKUP
+- **72% efficiency** gain (4hr → 1hr7min daily) 
+- Auto audit trail + scalable to **6+ agents**
+- **2.88 hours/day** saved × 250 workdays = **720 agent-hours annually**
 - Go to Case study: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/VLOOKUP-Dashboard-%7C-72%25-efficiency-improvement)
 
 
