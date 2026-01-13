@@ -44,3 +44,8 @@
 - Self-rescheduling via "Manage Ticket" (prevents fraud)
 - address investigation (Legal escalation, resolution done)
 - Google Sheets tracking (150+ bookings monitored)
+
+##Visual Proof
+![SGD_recovery_SGD10K](https://github.com/GVyom/Headout-analytics-portfolio/blob/uss-fraud-investigation/SGD_recovery_%2410K.png)
+![SGD_recovery_SGD12K](https://github.com/GVyom/Headout-analytics-portfolio/blob/uss-fraud-investigation/SGD_recovery_%2412k.png.png)
+![Social_proof_kudos](https://github.com/GVyom/Headout-analytics-portfolio/blob/uss-fraud-investigation/Social_proof_kudos.png)
