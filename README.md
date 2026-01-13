@@ -1,6 +1,12 @@
 # Vyom's Analytics Portfolio
 **Headout Principal | UNSW MCom 2026**
 
+| Project | Impact |
+|---------|--------|
+| **USS Fraud** | **SGD 24K** saved |
+| **VLOOKUP Dashboard** | **AUD 10K** saved |
+| **Ticket Cancellation RCA** | **Escalations eliminated** |
+
 ## USS Fraud Investigation
 **SGD 24K** recovered from Universal Studios Singapore ticket fraud across **150+ bookings**
 
