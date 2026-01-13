@@ -1,4 +1,3 @@
-<img width="1385" height="534" alt="image" src="https://github.com/user-attachments/assets/c9ea986d-9a12-43bb-a9a5-0c97d2578721" /># Team Performance Dashboard: VLOOKUP Automation + Google Apps Script
 **Vyom | Headout Principal | UNSW MCom 2026**
 
 ## Executive Summary
