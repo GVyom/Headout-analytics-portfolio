@@ -51,8 +51,5 @@ Excel:
 
 
 ## Visual Proof
-![Escalation Analysis][file:1016]  
-![Booking Dataset][Add redacted screenshot]  
-![Arjun Arun Validation][Add Slack praise screenshot]
 
 
