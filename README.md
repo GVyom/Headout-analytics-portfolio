@@ -51,8 +51,8 @@ Excel:
 
 
 ## Visual Proof
-![Senior-stakeholders-recognition P2](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/senior-stakeholder-kudos%20P2.png)
 ![Seniro-stakeholders-recognition P1](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/senior-stakeholder-kudos.png)
+![Senior-stakeholders-recognition P2](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/senior-stakeholder-kudos%20P2.png)
 ![Excel-Data-Comparison-from 200+ bookings](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/Escalations%20Vs%20Valid%20bookings%20on%20the%20time%20slot.png)
 
 
