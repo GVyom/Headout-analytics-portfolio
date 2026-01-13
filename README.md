@@ -51,5 +51,7 @@ Excel:
 
 
 ## Visual Proof
+[Senior-stakeholders-recognition P2](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/senior-stakeholder-kudos%20P2.png)
+[Seniro-stakeholders-recognition P1](
 
 
