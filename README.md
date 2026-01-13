@@ -21,5 +21,5 @@
 - **Looker + Excel analysis** confirmed venue slot closures (not random pattern)
 - **Process redesign** → Reservations team ownership + zero bad reviews risk
 - Proactive refunds **prevented guest experience failures**
-- Go to Case study: [Link here](
+- Go to Case study: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/blob/Ticket-Cancellation-Root-Cause-Analysis/README.md)
 
