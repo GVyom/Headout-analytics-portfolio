@@ -17,4 +17,9 @@
 - **2.88 hours/day** saved × 250 workdays = **720 agent-hours annually**
 - Go to tool developed: [Link here](https://github.com/GVyom/Headout-analytics-portfolio/tree/VLOOKUP-Dashboard-%7C-72%25-efficiency-improvement)
 
+## Ticket Cancellation Root Cause Analysis
+- **Looker + Excel analysis** confirmed venue slot closures (not random pattern)
+- **Process redesign** → Reservations team ownership + zero bad reviews risk
+- Proactive refunds **prevented guest experience failures**
+- Go to Case study: [Link here](
 
